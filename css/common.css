@@ -1,0 +1,57 @@
+.btn-sm {
+    padding: 1px 10px;
+    background-color: #428bca !important;
+    color: white;
+    border-radius: 0;
+    margin-left: 5px;
+}
+.btn-sm:hover {
+    color: white;
+}
+.btn-sm:visited {
+    color: white;
+}
+.details {
+    background-color: #EEEEEE;
+}
+.rating-sm {
+    font-size : 20px;
+    margin-top: -5px;
+}
+.attachment {
+    cursor: pointer;
+    margin-left: 5px;
+    margin-top: 5px
+}
+#searchForm {
+    padding: 20px;
+    border-top: 1px solid #ddd !important;
+    border-left: 1px solid #ddd !important;
+    border-right: 1px solid #ddd !important;
+    margin-top: 5px;
+    margin-bottom:-8px;
+}
+.input-small {
+    width: 200px;
+}
+.padding0 {
+    padding: 0;
+}
+.btn-i {
+    background-color: #5bc0de !important;
+}
+.btn-s {
+    background-color: #5cb85c !important;
+}
+.btn-w {
+    background-color: #f0ad4e !important;
+}
+.attachment i {
+    margin-left: 5px;
+}
+.remarkTable {
+    background: transparent !important;
+}
+.transferDate, .transferUser {
+    width: 180px !important;
+}
